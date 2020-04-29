@@ -21,4 +21,6 @@ rm composer-setup.php
 
 echo "alias composer=~/composer/composer.phar" >> ~/.bash_aliases
 
+source ~/.bashrc
+
 exit $RESULT
